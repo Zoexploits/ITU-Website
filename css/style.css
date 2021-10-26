@@ -1,0 +1,23 @@
+.navbar{
+    background: linear-gradient(to right,rgb(38, 0, 255)40%, rgba(207, 0, 86, 0.6));
+    
+}
+.nav-link{
+    color: white;
+    font-weight: 500;
+
+}
+.nav-link:hover{
+    color: rgb(226, 196, 203);
+    transition: 1.2s;
+}
+.carousel-caption{
+    margin-bottom: 200px;
+}
+#main{
+    letter-spacing: 0.1em;
+    font-size: 36px;
+}
+#maine{
+    letter-spacing: 0.1em;
+}

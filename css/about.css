@@ -1,0 +1,7 @@
+.features{
+    width: 966px;
+    height: 640px;
+    background-image: url(img/feat.jpg);
+    background-size: cover;
+    background-position: center;
+}

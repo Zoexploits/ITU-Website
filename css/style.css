@@ -21,3 +21,16 @@
 #maine{
     letter-spacing: 0.1em;
 }
+.add{
+    height: 120vh;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: black;
+}
+.we{
+    margin-top: 50px;
+}
+.info{
+    font-size: 24px;
+   
+}

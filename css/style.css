@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navbar{
     background: linear-gradient(to right,rgb(38, 0, 255)40%, rgba(207, 0, 86, 0.6));
     
@@ -20,4 +21,11 @@
 }
 #maine{
     letter-spacing: 0.1em;
+=======
+@font-face {
+    font-family: roboto;
+    src: url("../static/Roboto/Roboto-BlackItalic-900.ttf");
+    font-weight: 900;
+    font-style: italic;
+>>>>>>> 16afee0d2d9f1c3d31851bc2c2063a31b5e5e247
 }

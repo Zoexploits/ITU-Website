@@ -28,25 +28,83 @@
 .welcome, h1{
     color: black;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
 }
-.welcome, p{
+.info{
     font-size: 20px;
     margin-left: 45px;
     margin-right: 45px;
     text-align: left;
-    margin-top: 30px;
+    margin-top: 70px;
     letter-spacing: 0.02em;
     line-height: 40px;
     
 }
 .cardwrap{
+    height: 200%;
+/*     
+    background: linear-gradient(to top, rgba(0,0,0,0.70)80%, rgba(0,0,0,0.70)10%); */
     margin-top: 100px;
     margin-bottom: 50px;
 }
 .mask{
     color: white;
     text-align: center;
-    padding-top: 115px;
-    font-size: 30px;
+    padding-top: 150px;
+    font-size: 25px;
 }
+.service{
+    color: black;
+    text-align: center;
+    height: 60%;
+    margin-top: 105px;
+}
+#serve:hover{
+    background: rgb(218, 57, 28);
+    transition: 1.2s;
+}
+#serve{
+    background: #1d35b9;
+}
+.fas{
+    color: white;
+}
+.cards:hover{
+    box-shadow: -1px -1px 32px 13px rgba(199,199,199,1);
+-webkit-box-shadow: -1px -1px 32px 13px rgba(199,199,199,1);
+-moz-box-shadow: -1px -1px 32px 13px rgba(199,199,199,1);
+transition: 1.2s;
+   
+}
+.car:hover{
+    box-shadow: -1px -1px 32px 13px rgba(145,140,140,1);
+-webkit-box-shadow: -1px -1px 32px 13px rgba(145,140,140,1);
+-moz-box-shadow: -1px -1px 32px 13px rgba(145,140,140,1);
+    transition: 1.2s;
+}
+.cont{
+    background: #1d35b9;
+    height: 170px;
+}
+.cont h4{
+    color: white;
+    text-align: left;
+    padding-top: 25px;
+    margin-left: 400px;
+    font-weight: 300;
+}
+.cont h2{
+    color: white;
+    font-weight: 400;
+}
+
+
+
+
+  
+  
+  
+
+  
+ 
+ 

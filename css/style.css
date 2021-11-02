@@ -1,14 +1,13 @@
 .navbar{
-    background: linear-gradient(to right,rgb(38, 0, 255)40%, rgba(207, 0, 86, 0.6));
+    background: #1d35b9;
     
 }
 .nav-link{
     color: white;
     font-weight: 500;
-
 }
 .nav-link:hover{
-    color: rgb(226, 196, 203);
+    color: rgb(250, 73, 42);
     transition: 1.2s;
 }
 .carousel-caption{
@@ -16,8 +15,38 @@
 }
 #main{
     letter-spacing: 0.1em;
-    font-size: 36px;
+    font-size: 45px;
 }
 #maine{
     letter-spacing: 0.1em;
+    font-size: 30px;
+}
+.welcome{
+    justify-content: center;
+   
+}
+.welcome, h1{
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+}
+.welcome, p{
+    font-size: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    text-align: left;
+    margin-top: 30px;
+    letter-spacing: 0.02em;
+    line-height: 40px;
+    
+}
+.cardwrap{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.mask{
+    color: white;
+    text-align: center;
+    padding-top: 115px;
+    font-size: 30px;
 }
